@@ -31,5 +31,4 @@ public class PingBot : ChatBot {
     }
 }
 
-//Developed primarily by crepppy
-//For CheesyBC
+//Copr. 2020 CheesyBC
