@@ -30,5 +30,3 @@ public class PingBot : ChatBot {
         }
     }
 }
-
-//Please credit crepppy and CheesyBC if you redistrobute this
